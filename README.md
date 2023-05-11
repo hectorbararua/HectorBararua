@@ -12,7 +12,7 @@
 
 <div>
   
-<img align="center" src="https://img.shields.io/badge/React.js-1572B6?style=for-the-badge&logo=css3&logoColor=white%22%3E" />
+<img align="center" src="https://img.shields.io/badge/React.js-1572B6?style=for-the-badge" />
   
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ek%22%3E" />
   
